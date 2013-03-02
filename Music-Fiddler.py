@@ -1,0 +1,1 @@
+/home/mnewton/Anki/addons/Music-Fiddler.py
